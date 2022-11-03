@@ -1,0 +1,136 @@
++++++++++++++++
+START
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread1
+Esegue Thread1
+Esegue Thread1
+Esegue Thread1
+Esegue Thread1
+Esegue Thread1
+Esegue Thread1
+Esegue Thread1
+Esegue Thread1
+Esegue Thread1
+globale = 15.625
+
+...Program finished with exit code 0
+Press ENTER to exit console.
++++++++++++++++++++++++++
+
+START
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread2
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread3
+Esegue Thread1
+Esegue Thread1
+Esegue Thread1
+Esegue Thread1
+Esegue Thread1
+Esegue Thread1
+Esegue Thread1
+Esegue Thread1
+Esegue Thread1
+Esegue Thread1
+globale = 16.5938
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+
++++++++++++++++++++
+
